@@ -85,11 +85,15 @@ Future development may include:
 
 The project won first place at the college level for its concept and prototype.
 
-## Project Brief
+## Project Photos
 
-A detailed project brief is available in this repository:
+![Project photo](d7f66cfa-72a2-4d1e-b8ab-8787eb3be462.JPG)
 
-`Your-Step-is-Energy-Project-Brief.pdf`
+Additional project photos: [Photo 1](IMG_1561.HEIC) | [Photo 2](IMG_1589.HEIC)
+
+## Project Presentation
+
+[View the project presentation (PDF)](Your_Step_is_Energy_SAIF_2026.pdf)
 
 ## Keywords
 
